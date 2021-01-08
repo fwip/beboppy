@@ -1,0 +1,4 @@
+message SmallSong {
+    1 -> string title;
+    2 -> uint16 year;
+}

@@ -1,0 +1,6 @@
+enum Instrument {
+    Sax = 0;
+    Trumpet = 1;
+    Clarinet = 2;
+}
+

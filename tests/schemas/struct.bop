@@ -1,0 +1,11 @@
+enum Instrument {
+    Sax = 0;
+    Trumpet = 1;
+    Clarinet = 2;
+}
+
+struct Performer {
+    string name;
+    Instrument plays;
+    Instrument[] likes;
+}
